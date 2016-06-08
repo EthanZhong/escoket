@@ -1,0 +1,27 @@
+{
+  "name": "esocket",
+  "version": "1.0.0",
+  "description": "realtime service",
+  "main": "index.js",
+  "scripts": {
+    "test": "false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanZhong/esocket.git"
+  },
+  "keywords": [
+    "realtime",
+    "socket",
+    "socket.io"
+  ],
+  "author": "EthanZhong <zhongdings@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EthanZhong/esocket/issues"
+  },
+  "homepage": "https://github.com/EthanZhong/esocket#readme",
+  "dependencies": {
+    "socket.io": "^1.4.6"
+  }
+}
