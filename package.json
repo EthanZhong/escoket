@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "realtime service",
   "main": "index.js",
-  "scripts": {
-    "test": "false"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EthanZhong/esocket.git"
@@ -22,6 +20,7 @@
   },
   "homepage": "https://github.com/EthanZhong/esocket#readme",
   "dependencies": {
+    "lodash": "^4.13.1",
     "socket.io": "^1.4.6"
   }
 }
