@@ -7,6 +7,9 @@ var Client=require('./lib/client');
 // Room.maxClients=4;
 // Room.timeOut=1000;
 
+/*var client=Client.createClient({id:'ethan'});
+client.join('ethan');*/
+
 //_.range(4);
 //_.padStart(55555,4,'0');
 //_.times(5,_.constant(false));
