@@ -2,7 +2,7 @@
   "name": "esocket",
   "version": "1.0.0",
   "description": "realtime service",
-  "main": "index.js",
+  "main": "./lib/index",
   "scripts": {},
   "repository": {
     "type": "git",
