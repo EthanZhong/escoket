@@ -1,0 +1,14 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "esocket example",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "author": "EthanZhong <zhongdings@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esocket": "^1.0.0"
+  }
+}
