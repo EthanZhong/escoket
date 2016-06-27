@@ -153,5 +153,5 @@
 		return data;
 	}
 	/*exports module*/
-	return Socket;
+	global.Socket=Socket;
 })(window, window.io);
